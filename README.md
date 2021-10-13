@@ -2,17 +2,22 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2021 session called DT260 - Explore Solutions that enable an Agile Transition to SAP S/4HANA.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to SAP’s ALM tools SAP Solution Manager with Focused Build and SAP Cloud ALM which offer a great set of features and functions that support customers transformation to the Intelligent Enterprise. In this session you will learn how both tools leverage RISE with SAP content with SAP Activate Roadmaps and the integration with SAP Readiness Check. Focus of this workshop will be on the Conversion to SAP S/4HANA Cloud, private edition.
+
+Open the overview presentation here...
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+There are no requirements other than sufficient internet access to execute the exercises.
 
 ## Exercises
+
+Link to workshop system SAP Solution Manager with Focused Build:
+Link to workshop system SAP Cloud ALM:
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
