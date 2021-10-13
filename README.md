@@ -16,8 +16,9 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Exercises
 
-Link to workshop system SAP Solution Manager with Focused Build:
-Link to workshop system SAP Cloud ALM:
+Link to workshop system SAP Solution Manager with Focused Build: 
+
+Link to workshop system SAP Cloud ALM: 
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
