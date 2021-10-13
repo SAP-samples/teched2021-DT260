@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DT260 - Explore Solutions That Enable an Agile Transition to SAP S/4HANA
 
 ## Description
 
