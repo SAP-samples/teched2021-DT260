@@ -16,7 +16,9 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Exercises
 
-Link to workshop system SAP Solution Manager with Focused Build: 
+Link to workshop system SAP Solution Manager with Focused Build: https://teched2021.almdemo.com/sap/bc/ui2/flp?sap-client=001&sap-language=EN#Shell-home
+
+Demo-Users for executing the exercises: DT260-01, DT260-02, DT260-03 ... DT260-500. Password for all users is Welcome2021. No need to change the password!
 
 Link to workshop system SAP Cloud ALM: 
 
