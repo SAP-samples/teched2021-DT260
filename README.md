@@ -24,7 +24,7 @@ Link to workshop system SAP Cloud ALM:
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Exercise 1 - Conversion Project Support in Focused Build](exercises/ex1/)
+- [Exercise 1 - Conversion Project Support in Focused Build](exercises/Session DT260 Exercise - 01 Conversion Project Support in Focused Build.pdf)
 
 - [Exercise 2 - Conversion Project Support in Cloud ALM](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
