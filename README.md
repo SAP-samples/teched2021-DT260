@@ -22,7 +22,6 @@ Demo-Users for executing the exercises: DT260-01, DT260-02, DT260-03 ... DT260-5
 
 Link to workshop system SAP Cloud ALM: 
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Exercise 1 - Conversion Project Support in Focused Build](https://github.com/SAP-samples/teched2021-DT260/blob/fb4c7de0e4c6a63005a385dcd8806eccfb827c41/exercises/Session%20DT260%20Exercise%20-%2001%20Conversion%20Project%20Support%20in%20Focused%20Build.pdf)
 
@@ -30,10 +29,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 
