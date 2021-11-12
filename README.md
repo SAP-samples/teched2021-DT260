@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2021 session called DT2
 
 This session introduces attendees to SAP’s ALM tools SAP Solution Manager with Focused Build and SAP Cloud ALM which offer a great set of features and functions that support customers transformation to the Intelligent Enterprise. In this session you will learn how both tools leverage RISE with SAP content with SAP Activate Roadmaps and the integration with SAP Readiness Check. Focus of this workshop will be on the Conversion to SAP S/4HANA Cloud, private edition.
 
-Open the overview presentation [here](https://github.com/SAP-samples/teched2021-DT260/blob/c56f027ecaf12b62395560e10d0eba367e1959dd/DT260%20-%20Explore%20Solutions%20That%20Enable%20an%20Agile%20Transition%20to%20SAP%20S4HANA.pdf).
+Open the overview presentation [here](https://github.com/SAP-samples/teched2021-DT260/blob/main/DT260%20-%20Explore%20Solutions%20That%20Enable%20an%20Agile%20Transition%20to%20SAP%20S4HANA.pdf).
 
 ## Requirements
 
@@ -16,18 +16,22 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Exercises
 
-Link to workshop system SAP Solution Manager with Focused Build: https://teched2021.almdemo.com/sap/bc/ui2/flp?sap-client=001&sap-language=EN#Shell-home
+### Exercise 1 - Conversion Project Support in Focused Build
 
-Demo-Users for executing the exercises: DT260-01, DT260-02, DT260-03 ... DT260-500. Password for all users is <b>Welcome2021</b>. No need to change the password!
+The detailed exercise description you find here: [Exercise 1 - Conversion Project Support in Focused Build](https://github.com/SAP-samples/teched2021-DT260/blob/main/exercises/Session%20DT260%20Exercise%20-%2001%20Conversion%20Project%20Support%20in%20Focused%20Build.pdf)
 
-Link to workshop system SAP Cloud ALM: 
+#### System Access for Exercise 1
 
+System access data will be published here just before the session.
 
-- [Exercise 1 - Conversion Project Support in Focused Build](https://github.com/SAP-samples/teched2021-DT260/blob/fb4c7de0e4c6a63005a385dcd8806eccfb827c41/exercises/Session%20DT260%20Exercise%20-%2001%20Conversion%20Project%20Support%20in%20Focused%20Build.pdf)
+### Exercise 2 - Conversion Project Support in SAP Cloud ALM
 
-- [Exercise 2 - Conversion Project Support in Cloud ALM](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+The detailed exercise description you find here: [Exercise 2 - Conversion Project Support in Cloud ALM](https://github.com/SAP-samples/teched2021-DT260/blob/main/exercises/Session%20DT260%20Exercise%20-%2002%20Conversion%20Project%20Support%20in%20SAP%20Cloud%20ALM.pdf)
+
+#### System Access for Exercise 2
+
+System access data will be published here just before the session.
+
 
 
 ## How to obtain support
