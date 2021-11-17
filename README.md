@@ -22,7 +22,12 @@ The detailed exercise description you find here: [Exercise 1 - Conversion Projec
 
 #### System Access for Exercise 1
 
-System access data will be published here just before the session.
+Link to workshop system SAP Solution Manager with Focused Build: https://teched2021.almdemo.com/sap/bc/ui2/flp?sap-client=001&sap-language=EN#Shell-home
+
+
+
+Users for executing the exercise: **DT260-01**, **DT260-02**, **DT260-03** ... **DT260-500**.  
+Password for all users is **Welcome2021**. No need to change the password!
 
 ### Exercise 2 - Conversion Project Support in SAP Cloud ALM
 
@@ -30,7 +35,13 @@ The detailed exercise description you find here: [Exercise 2 - Conversion Projec
 
 #### System Access for Exercise 2
 
-System access data will be published here just before the session.
+Link to workshop SAP Cloud ALM tenant: https://calm-teched-dt260.eu10.alm.cloud.sap/launchpad#Shell-home  
+
+User for executing the exercise: **AGATHA**  
+Password: **Calm21#3**
+   
+> **CAUTION**: You will be working in a shared demo envionment. You and your fellow workshop participants will be using same tenant and user. So the only thing that separates you from the others is the Session Context. When you logout and login again, you may end up in a different project and different filter settings. Please carefully check you are working in the right Project!!!
+
 
 
 
