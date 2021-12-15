@@ -22,12 +22,11 @@ The detailed exercise description you find here: [Exercise 1 - Conversion Projec
 
 #### System Access for Exercise 1
 
-Link to workshop system SAP Solution Manager with Focused Build: https://teched2021.almdemo.com/sap/bc/ui2/flp?sap-client=001&sap-language=EN#Shell-home
+The dedicated TechEd SAP Solution Manager System for this exercise is no longer available. 
+If you still want to do the exercise you can use the SAP Solution Manager Internet Demo system. Logon with the user **BAUERA** to perform the exercise. All information needed to logon to the system you find here:  
+https://support.sap.com/en/alm/demo-systems/internet-demo-system.html 
 
 
-
-Users for executing the exercise: **DT260-01**, **DT260-02**, **DT260-03** ... **DT260-500**.  
-Password for all users is **Welcome2021**. No need to change the password!
 
 ### Exercise 2 - Conversion Project Support in SAP Cloud ALM
 
@@ -35,13 +34,9 @@ The detailed exercise description you find here: [Exercise 2 - Conversion Projec
 
 #### System Access for Exercise 2
 
-Link to workshop SAP Cloud ALM tenant: https://calm-teched-dt260.eu10.alm.cloud.sap/launchpad#Shell-home  
-
-User for executing the exercise: **AGATHA**  
-Password: **Calm21#3**
-   
-> **CAUTION**: You will be working in a shared demo envionment. You and your fellow workshop participants will be using same tenant and user. So the only thing that separates you from the others is the Session Context. When you logout and login again, you may end up in a different project and different filter settings. Please carefully check you are working in the right Project!!!
-
+The dedicated TechEd SAP Cloud ALM tenant for this exercise is no longer available.  
+If you still want to do the exercise you can use the SAP Cloud ALM Public Demo Tenant. Logon with the user **AGATHA** to perform the exercise. All information needed to logon to the tenant you find here:  
+https://support.sap.com/en/alm/demo-systems/cloud-alm-demo-system.html
 
 
 
